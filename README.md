@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&pause=1000&color=00829B&repeat=false&width=435&lines=Hello!+I'm+Sam+C%C3%A1rdenas" alt="Typing SVG" /></a>
 </h1>
    
-<h2 align="center" style="color: #00829B;"> About Me </h2><br>
+<h3 align="center" style="color: #00829B;"> About Me </h3><br>
 <p align="center">
   Hi, I'm Samuel Cárdenas, Full-Stack Developer and UX/UI Designer from Paraguay
   <br>
@@ -22,8 +22,8 @@
   <a href="mailto:samuelcardenas1411@gmail.com"><img src="https://img.shields.io/badge/Behance-003ECB?style=for-the-badge&logo=behance&logoColor=white" height=26 style='border-radius:10px;'><a>
    <a href="http://wa.me//595982537109"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=26 style='border-radius:10px;'><a>
 </p>
-<hr>
-<h2 align="center" style="color: #00829B;"> Languages and tools </h2><br>
+
+<h3 align="center" style="color: #00829B;"> Languages and tools </h3><br>
 
 
 <p align="center">
@@ -37,8 +37,8 @@
   
   
 </p>
-<hr>
-<h2 align="center" style="color: #00829B;"> Stats</h2>
+
+<h3 align="center" style="color: #00829B;"> Stats</h3>
 <br>
 
 
