@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-c%C3%A1rdenas-ux-ui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=26 style='border-radius:10px;'></a>
   <a href="mailto:samuelcardenas1411@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" height=26 style='border-radius:10px;'><a>
-  <a href="mailto:samuelcardenas1411@gmail.com"><img src="https://img.shields.io/badge/Behance-003ECB?style=for-the-badge&logo=behance&logoColor=white" height=26 style='border-radius:10px;'><a>
+  <a href="https://www.behance.net/samuelcardenas4"><img src="https://img.shields.io/badge/Behance-003ECB?style=for-the-badge&logo=behance&logoColor=white" height=26 style='border-radius:10px;'><a>
    <a href="http://wa.me//595982537109"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=26 style='border-radius:10px;'><a>
 </p>
 
